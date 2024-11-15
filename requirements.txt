@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchainhub
+transformers
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+langchain-cli
+faiss-cpu
+flask
